@@ -17,7 +17,7 @@ A relational database is just a directed graph where **tables** (nodes) are link
 
 #### 2. Run the script
 ```
-python cascase.py --mode <tablename> <uid>
+python cascade.py --mode <tablename> <uid>
 ```
 Note: The script should work but is still experimental, therefore please use with caution.
 It has a `--dryrun` option that prints out all the SQL statements instead of executing them.
